@@ -1,0 +1,40 @@
+.imgMenWithGift {
+    // height: 95vh;
+    // margin-top: 1em;
+    //לבדוק אם זה הקיפה הדרך הזו
+    //או שזה בסדר
+    height: 95vh;
+    margin-top: -37.05em;
+    margin-right: 42vw;
+}
+
+// .imgPartGreen{
+//     height: 80vh;
+//     display: inline-block;
+//     margin-top: 1em;
+//     opacity: 1;
+// }
+.imgPartGreen{
+    background-color: #86B251;
+    margin-top: -2.5em;
+    display: inline-block;
+    height: 86vh;
+    width: 42vw;
+    margin-left: 790px;
+ 
+}
+.p{
+    color: white;
+    font-size: 1.8vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 135px;
+}
+.arrowLeft {
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    border-right: 75px solid #86B251;
+    margin-right: 36.60em;
+    margin-top: 13em;
+    position: absolute;
+}
